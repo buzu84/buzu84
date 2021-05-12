@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-# 🦄 I love _CODING_ and Dragons 🐲
+## 🦄 I love _Coding_ and _Dragons_ 🐲
 
 ## ❤ to Build - Software Engineer & Enthusiast
 
