@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-###I am a Dragons 🐲 and React enthusiast
+#I am a Dragons 🐲 and React enthusiast
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# ❤ to Build 
 
 ## Thank you and Namaste! 🙏
 
