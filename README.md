@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+###I am a Dragons 🐲 and React enthusiast
+
+# ❤ to Build - Software Engineer & Enthusiast!
+
+## Thank you and Namaste! 🙏
+
 <!--
 **buzu84/buzu84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
